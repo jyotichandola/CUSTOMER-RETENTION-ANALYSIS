@@ -16,7 +16,7 @@ Relaced values where applicable.
 Created Measures like churn rate, churned customer, Total Revenue and many more as per the requirement.
 
 
-Build a dashboard with Demographic details, Payment-Wise, Based on Subscription to get the main insights .
+Build a dashboard with Demographic details, Payment-Wise, Based on Subscription to get the main insights using KPI's, Bar graph, Line chart, Trends, Pie Chart, Donut Chart.
 
 
 Created a report in form of presentation in Power-Point attached above.
